@@ -1,0 +1,24 @@
+#logTable .ui-cell-data {
+    height: 60px;
+    overflow: hidden;
+}
+
+#CustomTableEntriesTable .OID, th#OID.data-table-header-th {
+    min-width: 75px !important;
+}
+
+#CustomTableEntriesTable .ACTIVE, th#ACTIVE.data-table-header-th {
+    min-width: 80px !important;
+}
+
+#CustomTableEntriesTable .FIRM, th#FIRM.data-table-header-th {
+    min-width: 80px !important;
+}
+
+#CustomTableEntriesTable .INDIVIDUAL, th#INDIVIDUAL.data-table-header-th {
+    min-width: 110px !important;
+}
+
+#CustomTableEntriesTable .STATE, th#STATE.data-table-header-th {
+    min-width: 75px !important;
+}
