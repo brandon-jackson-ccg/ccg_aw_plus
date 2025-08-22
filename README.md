@@ -19,6 +19,19 @@
 
 6. Profit
 
+## Current Features
+
+* The System Log page will preload 100 rows so you don't have to wait when you scroll down every 10 items
+
+    * This will be turned on for Custom Table rows once I figure out how to trigger the function with Angular modals
+
+* On any page with a Select Qquery and a Search button (Custom Tables, System Logs, etc), you can press Ctrl + ; to search instead of clicking the button.
+
+* Script Editor page
+
+    * You can press **Ctrl + ;** to Validate the script
+    * You can press **Ctrl + S** to Publish the script 
+
 ### Add a Question, Comment, or Concern
 
 Simply click on the extension icon and use the [Click here for any Issue or new Enhancement!](https://github.com/brandon-jackson-ccg/ccg_aw_plus/issues) link at the bottom of the menu.
