@@ -9,6 +9,8 @@
 
 2. In Chrome, navigate to the [Chrome Extensions page](chrome://extensions)
 
+    * Make sure the the 'Developer mode' toggle is on (located at the top right of the page).
+
 3. Click the 'Load unpacked' button in the top left
 
 4. Select the parent folder of the cloned repository 
